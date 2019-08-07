@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fPIC -g   CMakeFiles/fmm.dir/run_cpp.cpp.o  -o fmm libfmmlib.so /usr/lib/x86_64-linux-gnu/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so -Wl,-rpath,/home/cg260486/Codes/Libraries/CSMRI_sparkling/minifmm_gpu/debug 

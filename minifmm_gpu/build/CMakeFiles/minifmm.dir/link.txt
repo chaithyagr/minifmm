@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11 -fPIC  -shared  -o minifmm.cpython-35m-x86_64-linux-gnu.so CMakeFiles/minifmm.dir/main.cpp.o -flto libfmmlib.so -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt -Wl,-rpath,/home/cg260486/Codes/Libraries/CSMRI_sparkling/minifmm_gpu/build 
